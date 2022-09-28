@@ -1,2 +1,2 @@
-# Module-10-Challenge
-Object-Oriented Programming Challenge: Team Profile Generator
+# module-10-challenge
+module 10 
